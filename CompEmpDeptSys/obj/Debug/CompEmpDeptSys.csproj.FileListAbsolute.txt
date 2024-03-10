@@ -1,0 +1,28 @@
+D:\CURRENT ASSIGNMENT WORK\YOXD268SN3 - locus rag - 2500\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.exe.config
+D:\CURRENT ASSIGNMENT WORK\YOXD268SN3 - locus rag - 2500\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.exe
+D:\CURRENT ASSIGNMENT WORK\YOXD268SN3 - locus rag - 2500\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.pdb
+D:\CURRENT ASSIGNMENT WORK\YOXD268SN3 - locus rag - 2500\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.csproj.AssemblyReference.cache
+D:\CURRENT ASSIGNMENT WORK\YOXD268SN3 - locus rag - 2500\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.csproj.CoreCompileInputs.cache
+D:\CURRENT ASSIGNMENT WORK\YOXD268SN3 - locus rag - 2500\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.exe
+D:\CURRENT ASSIGNMENT WORK\YOXD268SN3 - locus rag - 2500\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.pdb
+C:\Users\17922\Downloads\O8-YOXD268SN3 (1)\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.exe.config
+C:\Users\17922\Downloads\O8-YOXD268SN3 (1)\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.exe
+C:\Users\17922\Downloads\O8-YOXD268SN3 (1)\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.pdb
+C:\Users\17922\Downloads\O8-YOXD268SN3 (1)\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.csproj.AssemblyReference.cache
+C:\Users\17922\Downloads\O8-YOXD268SN3 (1)\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.csproj.CoreCompileInputs.cache
+C:\Users\17922\Downloads\O8-YOXD268SN3 (1)\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.exe
+C:\Users\17922\Downloads\O8-YOXD268SN3 (1)\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.pdb
+C:\Users\17922\Downloads\17922_employee_register - Copy\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.exe.config
+C:\Users\17922\Downloads\17922_employee_register - Copy\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.exe
+C:\Users\17922\Downloads\17922_employee_register - Copy\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.pdb
+C:\Users\17922\Downloads\17922_employee_register - Copy\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.csproj.AssemblyReference.cache
+C:\Users\17922\Downloads\17922_employee_register - Copy\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.csproj.CoreCompileInputs.cache
+C:\Users\17922\Downloads\17922_employee_register - Copy\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.exe
+C:\Users\17922\Downloads\17922_employee_register - Copy\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.pdb
+C:\HND in Computing\Year 2 Semester 1\Data Structures & Algorithms\Assignment Brief\17922_employee_register_last_31_may\17922_employee_register_last\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.exe.config
+C:\HND in Computing\Year 2 Semester 1\Data Structures & Algorithms\Assignment Brief\17922_employee_register_last_31_may\17922_employee_register_last\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.exe
+C:\HND in Computing\Year 2 Semester 1\Data Structures & Algorithms\Assignment Brief\17922_employee_register_last_31_may\17922_employee_register_last\CompEmpDeptSys\CompEmpDeptSys\bin\Debug\CompEmpDeptSys.pdb
+C:\HND in Computing\Year 2 Semester 1\Data Structures & Algorithms\Assignment Brief\17922_employee_register_last_31_may\17922_employee_register_last\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.csproj.AssemblyReference.cache
+C:\HND in Computing\Year 2 Semester 1\Data Structures & Algorithms\Assignment Brief\17922_employee_register_last_31_may\17922_employee_register_last\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.csproj.CoreCompileInputs.cache
+C:\HND in Computing\Year 2 Semester 1\Data Structures & Algorithms\Assignment Brief\17922_employee_register_last_31_may\17922_employee_register_last\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.exe
+C:\HND in Computing\Year 2 Semester 1\Data Structures & Algorithms\Assignment Brief\17922_employee_register_last_31_may\17922_employee_register_last\CompEmpDeptSys\CompEmpDeptSys\obj\Debug\CompEmpDeptSys.pdb

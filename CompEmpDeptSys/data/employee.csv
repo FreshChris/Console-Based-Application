@@ -1,0 +1,13 @@
+Employee ID,First Name,Last Name,Mobile No.,Email,Joining Date,Department ID,Department Name
+emp001,Chris,Anderson,123456789,cristi@ymail.com,11/02/2020,D01,Sales
+emp002,Ivan,Bexon,123456790,ivan@ymail.com,12/02/2020,D01,Sales
+emp003,Irene,Miran,123456791,irene@ymail.com,13/02/2020,D01,Sales
+emp004,Max,Jackson,5543684321,jackie@yahoo.com,14/02/2020,D04,HR
+emp005,John,Michellin,123456793,john@ymail.com,15/02/2020,D03,Finance
+emp006,Ayub,Murebek,123456794,ayub@ymail.com,16/02/2020,D03,Finance
+emp007,Bessy,Asiona,123456795,bessy@ymail.com,17/02/2020,D02,Marketing
+emp008,Eric,Ericson,123456796,eric@ymail.com,18/02/2020,D02,Marketing
+emp009,Jack,Warabei,123456797,jack@ymail.com,19/02/2020,D02,Marketing
+emp010,Mark,Zuckeberk,123456798,mark@ymail.com,20/02/2020,D04,HR
+emp011,Andrew,Rayel,123456799,andrw@ymail.com,21/02/2020,D04,HR
+emp012,Bill,Gates,123456800,bill@ymail.com,22/02/2020,D04,HR
